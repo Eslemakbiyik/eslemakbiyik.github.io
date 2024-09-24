@@ -20,16 +20,16 @@ const Hero = () => {
                         <SlideUp>
                             <div className="about-image-part">
                                 <img src={profile} alt="About Me" />
-                                <h2>Ahmet Akbiyik</h2>
+                                <h2>Eslem Akbiyik</h2>
                                 <p>PhD Candidate</p>
                                 <p>POlitical Economy and Government</p>
                                 <p>Harvard Kennedy School</p>
                                 <div className="about-social text-center">
                                     <ul>
                                         {/* <li><Link to=""><RiFacebookCircleFill size={20} /></Link></li> */}
-                                        <li><Link to="https://x.com/ahmetakbiyik_en"><RiTwitterXLine size={20} /></Link></li>
-                                        <li><Link to="https://www.linkedin.com/in/ahmet-akbiyik/"><RiLinkedinFill size={20} /></Link></li>
-                                        <li><Link to="https://github.com/ahmetakbiyik"><RiGithubLine size={20} /></Link></li>
+                                        <li><Link to="https://x.com/Eslemakbiyik_en"><RiTwitterXLine size={20} /></Link></li>
+                                        <li><Link to="https://www.linkedin.com/in/Eslem-akbiyik/"><RiLinkedinFill size={20} /></Link></li>
+                                        <li><Link to="https://github.com/Eslemakbiyik"><RiGithubLine size={20} /></Link></li>
                                     </ul>
                                 </div>
                             </div>
@@ -42,7 +42,7 @@ const Hero = () => {
                             <div className="about-content-part">
                                 <p>Hello There!</p>
                                 <h2>
-                                    I’m Ahmet Akbiyik, a PhD Candidate at Harvard.
+                                    I’m Eslem Akbiyik, a PhD Candidate at Harvard.
                                 </h2>
                                 <div className="adress-field">
                                     <ul>

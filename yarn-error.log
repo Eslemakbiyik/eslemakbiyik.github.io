@@ -1,8 +1,8 @@
 Arguments: 
-  /Users/ahmetutkuakbiyik/.nvm/versions/node/v18.20.4/bin/node /usr/local/bin/yarn install
+  /Users/Eslemutkuakbiyik/.nvm/versions/node/v18.20.4/bin/node /usr/local/bin/yarn install
 
 PATH: 
-  /Users/ahmetutkuakbiyik/.nvm/versions/node/v18.20.4/bin:/usr/local/bin:/System/Cryptexes/App/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin:/Library/TeX/texbin
+  /Users/Eslemutkuakbiyik/.nvm/versions/node/v18.20.4/bin:/usr/local/bin:/System/Cryptexes/App/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin:/Library/TeX/texbin
 
 Yarn version: 
   1.22.19
@@ -14,7 +14,7 @@ Platform:
   darwin x64
 
 Trace: 
-  SyntaxError: /Users/ahmetutkuakbiyik/Documents/GitHub/ahmetakbiyik.github.io/package.json: Unexpected token , in JSON at position 239
+  SyntaxError: /Users/Eslemutkuakbiyik/Documents/GitHub/Eslemakbiyik.github.io/package.json: Unexpected token , in JSON at position 239
       at JSON.parse (<anonymous>)
       at /usr/local/lib/node_modules/yarn/lib/cli.js:1629:59
       at Generator.next (<anonymous>)

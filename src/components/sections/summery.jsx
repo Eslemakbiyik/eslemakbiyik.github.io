@@ -21,7 +21,7 @@ const Summery = () => {
                         <SlideUp>
                             <div className="about-content-part">
                                 <h2>
-                                    I’m Ahmet Akbiyik, a PhD Candidate in Political Economy and Government.
+                                    I’m Eslem Akbiyik, a PhD Candidate in Political Economy and Government.
                                 </h2>
                                 <p>I am a social scientist with a focus on disinformation, migration, social media and survey methods.</p>
                                 <p>I have a diverse range of experience having worked across various  where intergroup relations occur, such as surveys, Whatsapp, Facebook, X, Telegram.</p>
